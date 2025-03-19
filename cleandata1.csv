@@ -1,0 +1,155 @@
+Country or region,Score,GDP per capita,Social support,Healthy life expectancy
+Finland,7.6,1.3,1.6,0.9
+Norway,7.6,1.5,1.6,0.9
+Denmark,7.6,1.4,1.6,0.9
+Iceland,7.5,1.3,1.6,0.9
+Switzerland,7.5,1.4,1.5,0.9
+Netherlands,7.4,1.4,1.5,0.9
+Canada,7.3,1.3,1.5,0.9
+New Zealand,7.3,1.3,1.6,0.9
+Sweden,7.3,1.4,1.5,0.9
+Australia,7.3,1.3,1.6,0.9
+United Kingdom,7.2,1.2,1.4,0.9
+Austria,7.1,1.3,1.5,0.9
+Costa Rica,7.1,1,1.5,0.8
+Ireland,7,1.4,1.6,0.9
+Germany,7,1.3,1.5,0.9
+Belgium,6.9,1.3,1.5,0.9
+United States,6.9,1.4,1.5,0.8
+Israel,6.8,1.3,1.6,0.9
+United Arab Emirates,6.8,2.1,0.8,0.7
+Czech Republic,6.7,1.2,1.5,0.9
+Malta,6.6,1.3,1.5,0.9
+France,6.5,1.3,1.5,0.9
+Mexico,6.5,1,1.3,0.8
+Chile,6.5,1.1,1.3,0.8
+Taiwan,6.4,1.4,1.4,0.9
+Panama,6.4,1.1,1.4,0.8
+Brazil,6.4,1,1.5,0.7
+Argentina,6.4,1.1,1.5,0.7
+Guatemala,6.4,0.8,1.3,0.6
+Uruguay,6.4,1.1,1.5,0.8
+Qatar,6.4,1.6,1.3,0.7
+Saudi Arabia,6.4,1.4,1.3,0.6
+Singapore,6.3,1.5,1.5,1
+Malaysia,6.3,1.2,1.3,0.7
+Spain,6.3,1.3,1.5,1
+Colombia,6.3,1,1.4,0.6
+Trinidad & Tobago,6.2,1.2,1.5,0.6
+Slovakia,6.2,1.2,1.5,0.8
+El Salvador,6.2,0.8,1.2,0.6
+Nicaragua,6.1,0.7,1.3,0.7
+Poland,6.1,1.2,1.4,0.8
+Bahrain,6.1,1.3,1.4,0.7
+Uzbekistan,6.1,0.7,1.6,0.6
+Kuwait,6.1,1.5,1.3,0.7
+Thailand,6.1,1,1.4,0.7
+Italy,6,1.3,1.5,0.9
+Ecuador,6,0.9,1.3,0.7
+Belize,6,0.8,1.1,0.5
+Lithuania,6,1.2,1.5,0.7
+Slovenia,5.9,1.2,1.5,0.9
+Romania,5.9,1.1,1.2,0.7
+Latvia,5.9,1.1,1.5,0.7
+Japan,5.9,1.3,1.5,1
+Mauritius,5.9,1.1,1.4,0.7
+Jamaica,5.9,0.8,1.5,0.7
+South Korea,5.9,1.3,1.2,1
+Northern Cyprus,5.8,1.2,1.2,0.9
+Russia,5.8,1.2,1.5,0.6
+Kazakhstan,5.8,1.1,1.5,0.6
+Cyprus,5.8,1.2,1.2,0.9
+Bolivia,5.8,0.8,1.2,0.5
+Estonia,5.7,1.2,1.5,0.7
+Paraguay,5.7,0.8,1.5,0.6
+Peru,5.7,0.9,1.2,0.7
+Kosovo,5.7,0.9,1.2,0.6
+Moldova,5.6,0.7,1.3,0.6
+Turkmenistan,5.6,1,1.5,0.5
+Hungary,5.6,1.2,1.4,0.7
+Libya,5.6,1,1.4,0.6
+Philippines,5.5,0.8,1.3,0.5
+Honduras,5.5,0.6,1.2,0.6
+Belarus,5.5,1,1.5,0.7
+Turkey,5.5,1.1,1.4,0.7
+Pakistan,5.5,0.7,0.8,0.4
+Hong Kong,5.4,1.4,1.3,1
+Portugal,5.4,1.2,1.4,0.9
+Serbia,5.4,1,1.4,0.7
+Greece,5.4,1.2,1.2,0.9
+Lebanon,5.4,1,1.2,0.8
+Montenegro,5.3,1,1.3,0.7
+Croatia,5.3,1.1,1.2,0.7
+Dominican Republic,5.3,1,1.4,0.6
+Algeria,5.3,1,1.2,0.7
+Morocco,5.3,0.8,0.8,0.7
+China,5.2,1,1.1,0.8
+Azerbaijan,5.2,1,1.2,0.6
+Tajikistan,5.2,0.5,1.2,0.6
+Macedonia,5.2,1,1.2,0.7
+Jordan,5.2,0.8,1.3,0.6
+Nigeria,5.2,0.7,1.2,0
+Kyrgyzstan,5.1,0.5,1.4,0.6
+Bosnia and Herzegovina,5.1,0.9,1.1,0.8
+Mongolia,5.1,0.9,1.5,0.6
+Vietnam,5.1,0.7,1.4,0.7
+Indonesia,5.1,0.9,1.2,0.5
+Bhutan,5.1,0.8,1.3,0.5
+Somalia,5,0,0.7,0.1
+Cameroon,5,0.5,0.9,0.2
+Bulgaria,4.9,1.1,1.5,0.7
+Nepal,4.9,0.4,1.2,0.5
+Venezuela,4.8,1,1.5,0.7
+Gabon,4.8,1,1.2,0.4
+Palestinian Territories,4.7,0.6,1.2,0.6
+South Africa,4.7,0.9,1.4,0.3
+Iran,4.7,1.1,0.8,0.7
+Ivory Coast,4.7,0.5,0.9,0.1
+Ghana,4.7,0.6,0.9,0.3
+Senegal,4.6,0.4,1.1,0.4
+Laos,4.6,0.7,1,0.4
+Tunisia,4.6,0.9,0.9,0.7
+Albania,4.6,0.9,0.8,0.8
+Sierra Leone,4.6,0.3,0.8,0
+Congo (Brazzaville),4.6,0.7,0.8,0.3
+Bangladesh,4.5,0.5,0.8,0.6
+Sri Lanka,4.5,0.9,1.3,0.7
+Iraq,4.5,1,1,0.5
+Mali,4.4,0.4,1.2,0.2
+Namibia,4.4,0.9,1.3,0.4
+Cambodia,4.4,0.5,1.1,0.5
+Burkina Faso,4.4,0.3,1.1,0.3
+Egypt,4.4,0.9,1,0.6
+Mozambique,4.4,0.2,0.9,0.2
+Kenya,4.4,0.5,1,0.5
+Zambia,4.4,0.6,1,0.3
+Mauritania,4.4,0.6,1.2,0.3
+Ethiopia,4.4,0.3,1,0.4
+Georgia,4.3,0.9,0.6,0.6
+Armenia,4.3,0.8,1,0.7
+Myanmar,4.3,0.7,1.2,0.4
+Chad,4.3,0.4,0.9,0.1
+Congo (Kinshasa),4.2,0.1,1.1,0.2
+India,4.2,0.7,0.7,0.5
+Niger,4.2,0.1,0.9,0.2
+Uganda,4.2,0.3,1.1,0.2
+Benin,4.1,0.4,0.4,0.2
+Sudan,4.1,0.6,1.2,0.3
+Ukraine,4.1,0.8,1.4,0.6
+Togo,4,0.3,0.5,0.3
+Guinea,4,0.3,0.8,0.2
+Lesotho,3.8,0.5,1.2,0.1
+Angola,3.8,0.7,1.1,0.3
+Madagascar,3.8,0.3,0.9,0.4
+Zimbabwe,3.7,0.4,1.1,0.2
+Afghanistan,3.6,0.3,0.5,0.3
+Botswana,3.6,1,1.2,0.4
+Malawi,3.6,0.2,0.5,0.3
+Haiti,3.6,0.3,0.7,0.3
+Liberia,3.5,0.1,0.9,0.3
+Syria,3.5,0.7,0.4,0.5
+Rwanda,3.4,0.3,0.9,0.4
+Yemen,3.4,0.4,1.1,0.3
+Tanzania,3.3,0.5,1,0.4
+South Sudan,3.3,0.3,0.6,0.2
+Burundi,2.9,0.1,0.6,0.1
